@@ -1,4 +1,9 @@
 #
+#set goo.im board name
+#
+ro.goo.board=flo
+
+#
 #set prefer network type
 #LTE, GSM, WCDMA(9)
 #
